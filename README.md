@@ -177,7 +177,7 @@ Publish the website in the LocalHost.
 
 ![alt text](<Screenshot 2024-12-25 172809.png>) 
 
-![alt text](<Screenshot 2024-12-25 172827.png>) 
+![alt text](<Screenshot 2024-12-25 173739.png>)
 
 ![alt text](<Screenshot 2024-12-25 172838.png>) 
 
